@@ -1,2 +1,7 @@
 #ignore pdf file
 *.pdf
+*.swp
+*BACKUP*
+*LOCAL*
+*REMOTE*
+*BASE*
