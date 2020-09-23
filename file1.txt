@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 the content in file 1
-ix
+xxix
 
 x
 =======
