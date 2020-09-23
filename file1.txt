@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 the content in file 1
 ix
 
 x
+=======
+
+
+sthe content in file 1
+ixx
+>>>>>>> f1
